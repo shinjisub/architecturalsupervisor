@@ -1,0 +1,4 @@
+jdbc.driverClassName=com.mysql.jdbc.Driver
+jdbc.url=jdbc:mysql://3.34.198.130:3306/s2p?useSSL=false&serverTimezone=Asia/Seoul
+jdbc.username=devbongkyo
+jdbc.password=!1q2w3e4r
